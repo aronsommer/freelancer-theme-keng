@@ -2,8 +2,16 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
-alt: image-alt
+img: project1/900x650.jpg
+alt: image-alt description 1 blabla
+img2: project1/900x650.png
+alt2: image-alt description 2 blabla
+img3: cabin.png
+alt3: image-alt description 3 blabla
+img4: project1/650x900.png
+alt4: image-alt description 4 blabla
+img5: project1/smile.png
+alt5: image-alt description 5 blabla
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
