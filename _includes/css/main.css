@@ -164,6 +164,14 @@ header .intro-text .skills {
     outline: 0;
 }
 
+/* Customized navbar border and background color */
+.navbar-default .navbar-toggle {
+    border-color: white;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: black;
+}
+
 .navbar .navbar-nav {
     letter-spacing: 1px;
 }
@@ -301,7 +309,7 @@ section.success {
 .btn-outline.active {
     border: solid 2px #fff;
     color: #{{ site.color.primary }};
-    background: #fff;
+    /* background: #fff; */
 }
 
 .floating-label-form-group {
