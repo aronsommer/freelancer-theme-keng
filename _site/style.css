@@ -92,7 +92,7 @@ header {
     color: #fff;
     height: 100vh;
     /* background: #FFFFFF; */
-    background-image: url("../img/bg.png");
+    background-image: url("img/bg.png");
     background-color: #cccccc; /* Used if the image is unavailable */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
